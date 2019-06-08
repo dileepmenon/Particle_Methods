@@ -7,10 +7,10 @@ methods. Each iteration of the simulation is split into two parts
 (operator splitting). That is, each time step is split into separate
 convection and diffusion steps. The convection step is carried out by
 imposing the boundary conditions using the vortex panel method and then
-integrating using the Range Kutta second order integrator. The diffusion
+integrating using the Runge-Kutta second order integrator. The diffusion
 step is carried out using the Random Vortex Method (RVM). The simulation
 tries to satisfy the no-slip conditions by placing vortex blobs of the
-appropriate strength over each panel
+appropriate strength over each panel.
 
 
 The following algorithm has been used for each iteration in the
