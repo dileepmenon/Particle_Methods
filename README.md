@@ -30,7 +30,7 @@ into multiple vortices, each with a maximum vortex strength.
 To ensure the no penetration condition is satisfied, particles are
 reflected back if they are found to intersect any of the panels.
 
-The following system was simulated using parameters
+The following system was simulated using parameters: 
 maximum vortex strength = 0.1, timestep = 0.1, Re = 1000 and with 75 panels
 each having linear vorticity distributions.
 
