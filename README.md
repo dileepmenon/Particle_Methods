@@ -34,4 +34,4 @@ The following system was simulated using parameters
 maximum vortex strength = 0.1, timestep = 0.1, Re = 1000 and with 75 panels
 each having linear vorticity distributions.
 
-![Alt Text](https://im.ezgif.com/tmp/ezgif-1-8e7bc7cd6069.gif)
+![Flow over cylinder](particle_flow.gif)
